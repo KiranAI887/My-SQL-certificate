@@ -1,1 +1,1 @@
-# Machine-learning-certificate
+# My-SQL-certificate
